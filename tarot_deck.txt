@@ -1,0 +1,22 @@
+0|El Loco|Significa liberación y no conformismo. Representa la confianza en uno mismo y la confianza en el camino que se ha elegido.|0_El_Loco.png
+1|El Mago|Representa la creatividad, el ingenio y la habilidad para resolver problemas. Simboliza la capacidad de utilizar recursos y habilidades para alcanzar metas.|1_El_Mago.png
+2|La Sacerdotisa|Representa la intuitividad, el conocimiento interior y la percepción profunda. Simboliza la capacidad de acceder a información oculta y a ver más allá de las apariencias.|2_La_Sacerdotisa.png
+3|La Emperatriz|Representa la fertilidad, la creatividad y la sensualidad. Simboliza el poder maternal y la capacidad de dar forma a ideas y proyectos.|3_La_Emperatriz.png
+4|El Emperador|Representa el poder, la autoridad y la lógica. Simboliza la capacidad de tomar decisiones y de actuar con firmeza y determinación.|4_El_Emperador.png
+5|El Hierofante|Representa la sabiduría espiritual, la enseñanza y la guía. Simboliza la capacidad de encontrar significado y propósito en la vida.|5_El_Hierofante.png
+6|Los Enamorados|Representa la atracción, el deseo y la pasión. Simboliza la capacidad de conectarse con otros y de encontrar el amor verdadero.|6_Los_Amantes.png
+7|El Carro|Representa la movilidad, el movimiento y la acción. Simboliza la capacidad de avanzar y de tomar el control de la vida.|7_El_Carro.png
+8|La Justicia|Representa la equidad, la honestidad y la justicia. Simboliza la capacidad de mantener un equilibrio justo y de actuar con integridad.|8_La_Justicia.png
+9|El Ermitaño|Representa la introversión, la meditación y el aislamiento. Simboliza la capacidad de encontrar sabiduría y paz interior a través de la reflexión.|9_El_Ermitano.png
+10|La Rueda de la Fortuna|Representa el cambio, la transformación y el ciclo de la vida. Simboliza la capacidad de adaptarse a los cambios y de abrazar el proceso de crecimiento.|10_La_Rueda_de_la_Fortuna.png
+11|La Fuerza|Representa el control y la disciplina. La Fuerza puede referirse a la fortaleza interna y la capacidad de mantener la calma en situaciones difíciles.|11_La_Fuerza.png
+12|El Colgado|Representa la reflexión, la perspectiva y la comprensión. Simboliza la importancia de mirar hacia dentro y de encontrar la verdad interior.|12_El_Colgado.png
+13|La Muerte|Representa el fin de un ciclo y el comienzo de uno nuevo. Simboliza la transformación y el cambio radical.|13_La_Muerte.png
+14|La Templanza|Representa la moderación y la armonía. Simboliza la importancia de encontrar un equilibrio entre las diferentes partes de nuestra vida.|14_La_Templanza.png
+15|El Diablo|Representa la tentación, la materialidad y el deseo. Simboliza la importancia de tomar decisiones conscientes y de evitar caer en la tentación.|15_El_Diablo.png
+16|La Torre|Representa la adversidad y el cambio repentino. Simboliza la importancia de estar preparado para afrontar los desafíos y de tener la fortaleza para superarlos.|16_La_Torre.png
+17|La Estrella|Representa la esperanza, la inspiración y la iluminación. Simboliza la importancia de seguir nuestros sueños y de mantener la fe en un futuro brillante.|17_La_Estrella.png
+18|La Luna|Representa la intuición, la emoción y la incertidumbre. Simboliza la importancia de confiar en nuestros sentimientos y de comprender nuestra verdadera naturaleza.|18_La_Luna.png
+19|El Sol|Representa la alegría, la realización y el éxito. Simboliza la importancia de encontrar la felicidad en nuestras vidas y de celebrar nuestras logros.|19_El_Sol.png
+20|El Juicio|Representa el juicio, la evaluación y la autocrítica. Simboliza la importancia de evaluar nuestras acciones y de aprender de nuestros errores.|20_El_Juicio.png
+21|El Mundo|Representa la totalidad, la integridad y la realización. Simboliza la sensación de completitud y de haber alcanzado todos tus objetivos y metas.|21_El_Mundo.png
